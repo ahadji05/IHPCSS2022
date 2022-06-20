@@ -1,13 +1,23 @@
 \begin{thebibliography}{1}
 
-\bibitem{Smith:2012qr}
-J.~M. Smith and A.~B. Jones.
-\newblock {\em {B}ook {T}itle}.
-\newblock Publisher, 7th edition, 2012.
+\bibitem{Bagaini}
+C. Bagaini et. al,
+\newblock {\em Data parallel implementation of 3D PSPI},
+\newblock SEG Technical Program Exp. Abstracts, :188-191, 1995.
 
-\bibitem{Smith:2013jd}
-A.~B. Jones and J.~M. Smith.
-\newblock {A}rticle {T}itle.
-\newblock {\em Journal title}, 13(52):123--456, March 2013.
+\bibitem{Biondi06}
+B. Biondi
+\newblock {\em 3D Seismic Imaging}
+\newblock SEG BOOKS, 2006
+
+\bibitem{Berkhout14b}
+A. J. Berkhout
+\newblock {\em Review Paper: An outlook on the future of seismic imaging, Part II: Full-Wavefield Migration},
+\newblock Geophys. Prosp., 62(5):931--949, 2014.
+
+\bibitem{Davydenko17}
+M. Davydenko and D. J. Verschuur
+\newblock {\em Full-Wavefield Migration: using surface and internal multiples in imaging},
+\newblock Geophys. Prosp., 65(1):7--21, 2017.
 
 \end{thebibliography}
